@@ -1,0 +1,11 @@
+2024-02-23 21:27:44.008 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Demo - -
+2024-02-23 21:27:44.025 +05:30 [INF] Executing endpoint 'Project1.Controllers.DemoController.Index (Project1)'
+2024-02-23 21:27:44.041 +05:30 [INF] Route matched with {action = "Index", controller = "Demo"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller Project1.Controllers.DemoController (Project1).
+2024-02-23 21:27:44.080 +05:30 [INF] Log message from Information Metmhod
+2024-02-23 21:27:44.081 +05:30 [FTL] Log message from Critical Method
+2024-02-23 21:27:44.081 +05:30 [ERR] Log message from Eroor Method
+2024-02-23 21:27:44.081 +05:30 [WRN] Log message from warning Method
+2024-02-23 21:27:44.086 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-02-23 21:27:44.089 +05:30 [INF] Executed action Project1.Controllers.DemoController.Index (Project1) in 45.4104ms
+2024-02-23 21:27:44.089 +05:30 [INF] Executed endpoint 'Project1.Controllers.DemoController.Index (Project1)'
+2024-02-23 21:27:44.089 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Demo - - - 200 0 - 81.2091ms

@@ -1,0 +1,19 @@
+2024-02-23 21:26:02.399 +05:30 [INF] Application is shutting down...
+2024-02-23 21:26:06.586 +05:30 [INF] Now listening on: https://localhost:7003
+2024-02-23 21:26:06.604 +05:30 [INF] Now listening on: http://localhost:5283
+2024-02-23 21:26:06.607 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-23 21:26:06.607 +05:30 [INF] Hosting environment: Development
+2024-02-23 21:26:06.607 +05:30 [INF] Content root path: C:\Users\ManikandanLakshmanan\DotNet_Pracatice\Project1\
+2024-02-23 21:26:56.750 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - -
+2024-02-23 21:26:56.950 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - - - 200 - text/html;charset=utf-8 202.4113ms
+2024-02-23 21:26:56.958 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/swagger-ui-standalone-preset.js - -
+2024-02-23 21:26:56.958 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/swagger-ui.css - -
+2024-02-23 21:26:56.958 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/swagger-ui-bundle.js - -
+2024-02-23 21:26:56.982 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-02-23 21:26:56.982 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-02-23 21:26:56.982 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-02-23 21:26:56.984 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 25.3870ms
+2024-02-23 21:26:56.984 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 25.3869ms
+2024-02-23 21:26:56.984 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/swagger-ui.css - - - 200 144929 text/css 25.3783ms
+2024-02-23 21:26:57.148 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - -
+2024-02-23 21:26:57.260 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.2086ms

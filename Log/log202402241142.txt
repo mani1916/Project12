@@ -1,0 +1,5 @@
+2024-02-24 11:42:45.055 +05:30 [INF] Now listening on: https://localhost:7003
+2024-02-24 11:42:45.086 +05:30 [INF] Now listening on: http://localhost:5283
+2024-02-24 11:42:45.093 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-24 11:42:45.094 +05:30 [INF] Hosting environment: Development
+2024-02-24 11:42:45.094 +05:30 [INF] Content root path: C:\Users\ManikandanLakshmanan\DotNet_Pracatice\Project1\
